@@ -1,0 +1,39 @@
+{
+    "movies": [
+        {
+            "name": "Escape Room", 
+            "company": "Columbia Pictures", 
+            "genre": "Horror"
+        },
+        {
+            "name": "Amrican Hangman", 
+            "company": "Hangman Production", 
+            "genre": "Thriller"
+        },
+        {
+            "name": "Rust Creek", 
+            "company": "IFC Films", 
+            "genre": "Drama"
+        },
+        {
+            "name": "The Upside", 
+            "company": "STX Entertainment", 
+            "genre": "Comedy"
+        },
+        {
+            "name": "Replicas", 
+            "company": "Grindstone Group", 
+            "genre": "Sci-Fi"
+        },
+        {
+            "name": "Glass", 
+            "company": "Universal Pictures", 
+            "genre": "Superhero"
+        },
+        {
+            "name": "Close", 
+            "company": "Netflix", 
+            "genre": "Action"
+        }
+    ]
+}
